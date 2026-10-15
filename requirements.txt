@@ -1,0 +1,6 @@
+pandas
+pandas-stubs
+openpyxl
+matplotlib
+scipy
+jupyter
